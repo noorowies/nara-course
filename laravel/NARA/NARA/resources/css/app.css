@@ -1,0 +1,22 @@
+*{
+    padding: 0;
+    margin: 0;
+
+}
+.bg-img{
+    background: url() no-repeat;
+background-size: cover;
+height: 100vh;
+background-attachment: fixed;
+
+
+}
+nav{
+    height: 80px !important;
+    position: fixed;
+}
+navbar-nav .nav-link, navbar-brand{
+    color: rgba(255, 215, 0, 665) !important;
+    font-size: 18px !important;
+    font-weight: 700;
+}
